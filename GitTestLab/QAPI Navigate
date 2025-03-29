@@ -33,6 +33,23 @@
     "Shadow_Step_Enabled" : false,
     "Is_Iterate_Step" : false,
     "Data_View_Type" : "text"
+  },{
+    "Step_Number" : 3,
+    "Step_Description" : "wait 1 sec",
+    "Control_Type" : "WebElement",
+    "Locator_Type" : "",
+    "Locator_Value" : "",
+    "User_Action" : "Wait",
+    "Data_Column" : "2",
+    "Step_Property" : "text",
+    "Step_Index" : "",
+    "Step_Data" : "1",
+    "Screenshot_Enabled" : true,
+    "Optional_Step_Enabled" : false,
+    "Parameterized_Step_Enabled" : false,
+    "Shadow_Step_Enabled" : false,
+    "Is_Iterate_Step" : false,
+    "Data_View_Type" : "text"
   } ],
   "functionSteps" : [ ],
   "iterateData" : [ ]
